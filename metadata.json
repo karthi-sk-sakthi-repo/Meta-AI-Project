@@ -1,0 +1,6 @@
+{
+  "name": "LlamaModernize - Enterprise Legacy Copilot",
+  "description": "Agentic enterprise modernization copilot powered by Meta Llama 3. Automates architecture assessment, dependency uncoupling, SOLID refactoring, schema migration, and test suite generation for monolithic .NET/C# systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
